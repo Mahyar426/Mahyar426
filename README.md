@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 My name is Mahyar, I have studied Communications Engineering at Politecnico di Torino and Electrical Engineering in Isfahan University of Technology, in Master of Science and Bachelor of Science, respectively.
+
+## At the moment, I am working as a embedded software engineer at Olorin s.r.l. in Turin, and also I am a team member in Computer Vision division of Squadra Corse Driverless team in my university, Polito.
+
+## I have done a variety of projects in Telecommunications area. From developing an eye tracking system in MATLAB to developing MIMO techniques in automotive radars, From implementing a satellite communications system to implementing YOLO for object detection in racing car. I enjoy coding, solving challenges and learning new things.
+
+## You can reach me via my email: mahyaronsori99@gmail.com, or my linkedin: https://linkedin.com/mahyar-onsori
 
 <!--
 **Mahyar426/Mahyar426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
