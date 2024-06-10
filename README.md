@@ -1,4 +1,4 @@
-## Hi there 👋 My name is Mahyar, nice to have you here.
+## Hi there 👋 Mahyar is here :).
 
 I have studied Communications Engineering at Politecnico di Torino and Electrical Engineering in Isfahan University of Technology, in Master of Science and Bachelor of Science, respectively.
 
