@@ -2,7 +2,7 @@
 
 I have studied Communications Engineering at Politecnico di Torino and Electrical Engineering in Isfahan University of Technology, in Master of Science and Bachelor of Science, respectively.
 
-At the moment, I am working as a embedded software engineer at Olorin s.r.l. in Turin, and also I am a team member in Computer Vision division of Squadra Corse Driverless team in my university, Polito.
+At the moment, I am working as a embedded software engineer at Olorin s.r.l. in Turin. Previously, I was a team member in Computer Vision division of Squadra Corse Driverless team in my Politecnico di Torino.
 
 I have done a variety of projects in Telecommunications area. From developing an eye tracking system in MATLAB to developing MIMO techniques in automotive radars, From implementing a satellite communications system to implementing YOLO for object detection in racing car. I enjoy coding, solving challenges and learning new things.
 
