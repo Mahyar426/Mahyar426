@@ -30,7 +30,7 @@ I'm a versatile engineer who loves solving real-world problems with a blend of A
 🏆 **Achievements:**
 - 📜 Publication: *IEEE 49th Conference on Local Computer Networks*
 - 🥇 Ranked 1st, EDISU Scholarship at Politecnico di Torino
-- 🥈 Top 2% National B.Sc. Entrance Exam, Iran
+- 🥇 Top 1% National B.Sc. Entrance Exam, Iran
 
 ⚡ **Beyond Tech:**
 
