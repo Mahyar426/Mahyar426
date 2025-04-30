@@ -3,12 +3,12 @@
 I'm a versatile engineer who loves solving real-world problems with a blend of AI, Image Processing and Computer Vision, and Embedded Systems.
 
 🎓 **My Academic Journey:**
-- 🔹 **M.Sc. in Electrical Engineering** at **Politecnico di Torino** _(Thesis on ML for 5G/6G)_
-- 🔸 **B.Sc. Electrical Engineering** from **Isfahan University of Technology** _(Developed an advanced eye-tracking system)_
+- 🔹 **M.Sc. in Electrical Engineering** at **Politecnico di Torino** _(Thesis: Machine Learning for 5G/6G)_
+- 🔸 **B.Sc. Electrical Engineering** from **Isfahan University of Technology** _(Thesis: Developing an eye tracking system in MATLAB)_
 
-💻 **Currently:**
-- 🔧 Embedded Software Engineer @ **Olorin S.r.l.**, Turin 🇮🇹
-- 🏎️ Formerly part of the Computer Vision team at **Squadra Corse Driverless**, Politecnico di Torino
+💻 **Experiences:**
+- 🔧 Embedded Software Engineer @ **Olorin S.r.l.**, Turin 🇮🇹 (May 2024 - Mar. 2025)
+- 🏎️ Formerly part of the Computer Vision team at **Squadra Corse Driverless**, Politecnico di Torino 🇮🇹 (Nov. 2023 - Sep. 2024)
 
 🚀 **Technical Skills:**
 - 🐍 Python | 💡 MATLAB | 🛠️ C/C++ | ⚙️ Verilog
