@@ -7,8 +7,9 @@ I'm a versatile engineer who loves solving real-world problems with a blend of A
 - 🔸 **B.Sc. Electrical Engineering** from **Isfahan University of Technology** _(Thesis: Developing an eye tracking system in MATLAB)_
 
 💻 **Experiences:**
-- 🔧 Embedded Software Engineer @ **Olorin S.r.l.**, Turin 🇮🇹 (May 2024 - Mar. 2025)
-- 🏎️ Formerly part of the Computer Vision team at **Squadra Corse Driverless**, Politecnico di Torino 🇮🇹 (Nov. 2023 - Sep. 2024)
+- 🧠 Firmware Engineer @ **Brain Technologies**, _(Consultant at **Electrolux**)_, Pordenone 🇮🇹 (Jul. 2025 – Present)  
+- 🔧 Embedded Software Engineer @ **Olorin S.r.l.**, Turin 🇮🇹 (May 2024 – Mar. 2025)
+- 🏎️ Formerly part of the Computer Vision team at **Squadra Corse Driverless**, Politecnico di Torino 🇮🇹 (Nov. 2023 – Sep. 2024)
 
 🚀 **Technical Skills:**
 - 🐍 Python | 💡 MATLAB | 🛠️ C/C++ | ⚙️ Verilog
@@ -22,9 +23,9 @@ I'm a versatile engineer who loves solving real-world problems with a blend of A
 - 🎥 Pattern Recognition for RTP Traffic (Python, Machine Learning)
 
 🔥 **Passionate about:**
-- 🤖 Exploring AI and its endless possibilities
-- 📡 Innovations in computer vision, or signal processing
-- 🕹️ Tech-driven creative solutions
+- 🤖 Exploring AI and its endless possibilities  
+- 🛠️ Building robust and efficient **embedded systems** for real-world applications  
+- 📡 Innovations in computer vision, or signal processing  
 - 🌍 International collaborations and multicultural teamwork
 
 🏆 **Achievements:**
@@ -41,5 +42,3 @@ I'm a versatile engineer who loves solving real-world problems with a blend of A
 - 💼 [LinkedIn](https://linkedin.com/mahyar-onsori)
 
 Let's connect and innovate together! 🚀
-
-
