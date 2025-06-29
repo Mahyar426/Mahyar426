@@ -7,7 +7,7 @@ I'm a versatile engineer who loves solving real-world problems with a blend of A
 - 🔸 **B.Sc. Electrical Engineering** from **Isfahan University of Technology** _(Thesis: Developing an eye tracking system in MATLAB)_
 
 💻 **Experiences:**
-- 🧠 Firmware Engineer @ **Brain Technologies**, _(Consultant at **Electrolux**)_, Pordenone 🇮🇹 (Jul. 2025 – Present)  
+- 🧠 Firmware Engineer @ **Brain Technologies** _(Consultant at **Electrolux**)_, Pordenone 🇮🇹 (Jul. 2025 – Present)  
 - 🔧 Embedded Software Engineer @ **Olorin S.r.l.**, Turin 🇮🇹 (May 2024 – Mar. 2025)
 - 🏎️ Formerly part of the Computer Vision team at **Squadra Corse Driverless**, Politecnico di Torino 🇮🇹 (Nov. 2023 – Sep. 2024)
 
