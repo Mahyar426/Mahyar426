@@ -1,0 +1,9 @@
+<svg width="600" height="140" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="140" rx="8" fill="#0d1117"/>
+  <text font-family="monospace" font-size="13" fill="#7ee787" x="20" y="28">mahyar@dev:~$ <tspan fill="#e6edf3">whoami</tspan></text>
+  <text font-family="monospace" font-size="13" fill="#a5d6ff" x="20" y="50">→ Firmware &amp; Embedded Engineer · AI/ML · Computer Vision</text>
+  <text font-family="monospace" font-size="13" fill="#7ee787" x="20" y="74">mahyar@dev:~$ <tspan fill="#e6edf3">cat current_role.txt</tspan></text>
+  <text font-family="monospace" font-size="13" fill="#a5d6ff" x="20" y="96">→ Firmware Verification Engineer @ Electrolux ⚡</text>
+  <text font-family="monospace" font-size="13" fill="#7ee787" x="20" y="118">mahyar@dev:~$ <tspan fill="#e6edf3">git log --oneline -1</tspan></text>
+  <text font-family="monospace" font-size="13" fill="#8b949e" x="20" y="136">a9f3c2d feat: M.Sc. thesis — ML for 5G/6G networks ✅</text>
+</svg>
