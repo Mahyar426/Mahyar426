@@ -1,44 +1,161 @@
-## Hello, World! 👋 Mahyar here!
+<!-- Header SVG Banner -->
+<div align="center">
 
-I'm a versatile engineer who loves solving real-world problems with a blend of AI, Image Processing and Computer Vision, and Embedded Systems.
+```
+╔══════════════════════════════════════════════════════════════╗
+║  mahyar@dev:~$ whoami                                        ║
+║  → Firmware & Embedded Engineer · AI/ML · Computer Vision   ║
+║  mahyar@dev:~$ echo $LOCATION                               ║
+║  → Pordenone, Italy 🇮🇹                                      ║
+║  mahyar@dev:~$ cat current_role.txt                         ║
+║  → Firmware Verification Engineer @ Electrolux ⚡            ║
+║  mahyar@dev:~$ git log --oneline -1                         ║
+║  a9f3c2d feat: M.Sc. thesis — ML for 5G/6G networks ✅      ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-🎓 **My Academic Journey:**
-- 🔹 **M.Sc. in Electrical Engineering** at **Politecnico di Torino** _(Thesis: Machine Learning for 5G/6G)_
-- 🔸 **B.Sc. Electrical Engineering** from **Isfahan University of Technology** _(Thesis: Developing an eye tracking system in MATLAB)_
+# Mahyar Onsori
+### *// building hardware that thinks & software that ships*
 
-💻 **Experiences:**
-- 🧠 Firmware Engineer @ **Electrolux**, Pordenone 🇮🇹 (Jul. 2025 – Present)  
-- 🔧 Embedded Software Engineer @ **Olorin S.r.l.**, Turin 🇮🇹 (May 2024 – Mar. 2025)
-- 🏎️ Formerly part of the Computer Vision team at **Squadra Corse Driverless**, Politecnico di Torino 🇮🇹 (Nov. 2023 – Sep. 2024)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahyar-onsori/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahyar426)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahyaronsori99@gmail.com)
+[![IEEE](https://img.shields.io/badge/IEEE_LCN_2024-00629B?style=for-the-badge&logo=ieee&logoColor=white)](mailto:mahyaronsori99@gmail.com)
 
-🚀 **Technical Skills:**
-- 🐍 Python | 💡 MATLAB | 🛠️ C/C++ | ⚙️ Verilog
-- 🤖 PyTorch | TensorFlow | Keras | Scikit-Learn
-- 🐧 Linux | 📦 GitHub | 📃 LaTeX
+</div>
 
-🌟 **Noteworthy Projects:**
-- 👁️ Advanced Eye-Tracking System (MATLAB, Image Processing)
-- 🛰️ Satellite Communications Simulator (MATLAB, OTFS, LDPC codes)
-- 🚗 MIMO Automotive Radar (C, MATLAB)
-- 🎥 Pattern Recognition for RTP Traffic (Python, Machine Learning)
+---
 
-🔥 **Passionate about:**
-- 🤖 Exploring AI and its endless possibilities  
-- 🛠️ Building robust and efficient **embedded systems** for real-world applications  
-- 📡 Innovations in computer vision, or signal processing  
-- 🌍 International collaborations and multicultural teamwork
+## ⚡ Impact at a Glance
 
-🏆 **Achievements:**
-- 📜 Publication: *IEEE 49th Conference on Local Computer Networks*
-- 🥇 Ranked 1st, EDISU Scholarship at Politecnico di Torino
-- 🥇 Top 1% National B.Sc. Entrance Exam, Iran
+<div align="center">
 
-⚡ **Beyond Tech:**
+| 🚀 65% | 👁️ 4,000 FPS | 🧪 30+ |
+|:---:|:---:|:---:|
+| Firmware validation time reduced | Industrial vision pipeline throughput | Automated test scripts shipped |
 
-- ⚽ Football Fanatic | 🏀 Basketball Follower | ♟️ Amateur Chess Player | 🪗 Future Accordion Player | 🎮 Pro Gamer | 🎥 Film Enthusiast
+</div>
 
-📩 **Reach out anytime!**
-- 📧 [mahyaronsori99@gmail.com](mailto:mahyaronsori99@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/mahyar-onsori)
+---
 
-Let's connect and innovate together! 🚀
+## 💼 Experience
+
+```yaml
+Current:
+  role: Firmware Verification Engineer
+  company: Electrolux (via Brain Technologies)
+  location: Pordenone, Italy
+  since: Jul 2025
+  highlights:
+    - Cut firmware validation time ~65% via Python/unittest automation
+    - Pioneered HIL testing with J-Link for system-level firmware coverage
+    - Root-cause analysis across 3+ hardware revisions
+
+Previous:
+  - Embedded Software Engineer @ Olorin S.r.l. (Turin, 2024–2025)
+      → 4,000 FPS FPGA-accelerated inspection pipeline
+      → Real-time multi-QR marker vision on Raspberry Pi
+      → STM32 firmware for sensor acquisition + ICMP comms
+
+  - Computer Vision Engineer @ Squadra Corse Driverless, Polito (2023–2024)
+      → YOLO-based real-time cone detection for autonomous racing
+```
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Thesis |
+|--------|------------|--------|
+| **M.Sc. Communications Engineering** | Politecnico di Torino (104/110) | SVD-based edge pruning for federated ML in 5G/6G |
+| **B.Sc. Electrical Engineering** | Isfahan University of Technology | Vision-based eye-tracking — ~98% gaze accuracy (MATLAB) |
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog/VHDL-FF6B35?style=flat-square&logoColor=white)
+
+**Embedded Platforms**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Embedded_Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**AI / ML / Vision**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Protocols & Tools**
+
+![I2C](https://img.shields.io/badge/I²C_·_SPI_·_UART-30363d?style=flat-square)
+![TCP](https://img.shields.io/badge/TCP/IP_·_MQTT_·_ICMP-30363d?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+---
+
+## 🚀 Noteworthy Projects
+
+| Project | Stack | Highlight |
+|---------|-------|-----------|
+| 👁️ **Eye-Tracking System** | MATLAB, Image Processing | ~98% gaze estimation accuracy — B.Sc. thesis |
+| 📡 **Satellite Comms Simulator** | MATLAB, OTFS, LDPC | End-to-end 5G/6G channel simulation |
+| 🚗 **MIMO Automotive Radar** | C, MATLAB | Real-time signal processing pipeline |
+| 🎥 **RTP Traffic Pattern Recognition** | Python, ML | Network traffic classification via ML |
+| 🏎️ **Autonomous Racing Perception** | Python, YOLO | Cone detection deployed in competition |
+
+---
+
+## 📜 Publication
+
+> **M. Onsori et al.**, *"Data-Driven and Privacy-Preserving Cooperation in Decentralized Learning"*
+> IEEE 49th Conference on Local Computer Networks (LCN), 2024
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **EDISU Scholarship** — Ranked 1st, Politecnico di Torino
+- 🥇 **Top 1%** — National B.Sc. Entrance Exam, Iran
+- 📜 **IEEE LCN 2024** — Published researcher in federated/decentralized ML
+
+---
+
+## 🌍 Languages
+
+![Persian](https://img.shields.io/badge/Persian-Native-2ea043?style=flat-square)
+![English](https://img.shields.io/badge/English-C2-1f6feb?style=flat-square)
+![Italian](https://img.shields.io/badge/Italian-B2-e3b341?style=flat-square)
+
+---
+
+## ⚡ Beyond the Code
+
+```
+⚽ Football fanatic  |  🏀 Basketball follower  |  ♟️ Amateur chess player
+🪗 Future accordion virtuoso  |  🎮 Pro gamer  |  🎥 Film enthusiast  |  🌍 Multicultural team lover
+```
+
+---
+
+<div align="center">
+
+### Let's connect and innovate together 🚀
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahyar-onsori/)
+[![Email](https://img.shields.io/badge/mahyaronsori99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahyaronsori99@gmail.com)
+
+*`// open to collaborations · always building something · </mahyar>`*
+
+</div>
