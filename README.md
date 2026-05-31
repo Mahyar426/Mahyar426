@@ -1,18 +1,6 @@
-<!-- Header SVG Banner -->
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  mahyar@dev:~$ whoami                                        ║
-║  → Firmware & Embedded Engineer · AI/ML · Computer Vision   ║
-║  mahyar@dev:~$ echo $LOCATION                               ║
-║  → Pordenone, Italy 🇮🇹                                      ║
-║  mahyar@dev:~$ cat current_role.txt                         ║
-║  → Firmware Verification Engineer @ Electrolux ⚡            ║
-║  mahyar@dev:~$ git log --oneline -1                         ║
-║  a9f3c2d feat: M.Sc. thesis — ML for 5G/6G networks ✅      ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="./header.svg" alt="Mahyar Onsori - Terminal Header"/>
+</div>
 
 # Mahyar Onsori
 ### *// building hardware that thinks & software that ships*
