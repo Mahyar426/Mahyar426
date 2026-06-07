@@ -2,6 +2,8 @@
 <img src="./header.svg" alt="Mahyar Onsori - Terminal Header"/>
 </div>
 
+<div align="center">
+
 # Mahyar Onsori
 ### *// building hardware that thinks & software that ships*
 
@@ -18,9 +20,9 @@
 
 <div align="center">
 
-| 🚀 65% | 👁️ 4,000 FPS | 🧪 30+ |
-|:---:|:---:|:---:|
-| Firmware validation time reduced | Industrial vision pipeline throughput | Automated test scripts shipped |
+| 🚀 65% | 👁️ 4,000 FPS | 🧪 30+ | 📡 2M+ |
+|:---:|:---:|:---:|:---:|
+| Firmware validation time reduced | Industrial vision pipeline throughput | Automated test scripts shipped | RTP network observations analyzed |
 
 </div>
 
@@ -56,7 +58,7 @@ Previous:
 | Degree | Institution | Thesis |
 |--------|------------|--------|
 | **M.Sc. Communications Engineering** | Politecnico di Torino (104/110) | SVD-based edge pruning for federated ML in 5G/6G |
-| **B.Sc. Electrical Engineering** | Isfahan University of Technology | Vision-based eye-tracking — ~98% gaze accuracy (MATLAB) |
+| **B.Sc. Electrical Engineering** | Isfahan University of Technology | Camera-only gaze estimation system — ~98% accuracy |
 
 ---
 
@@ -97,17 +99,20 @@ Previous:
 
 | Project | Stack | Highlight |
 |---------|-------|-----------|
-| 👁️ **Eye-Tracking System** | MATLAB, Image Processing | ~98% gaze estimation accuracy — B.Sc. thesis |
-| 📡 **Satellite Comms Simulator** | MATLAB, OTFS, LDPC | End-to-end 5G/6G channel simulation |
-| 🚗 **MIMO Automotive Radar** | C, MATLAB | Real-time signal processing pipeline |
-| 🎥 **RTP Traffic Pattern Recognition** | Python, ML | Network traffic classification via ML |
-| 🏎️ **Autonomous Racing Perception** | Python, YOLO | Cone detection deployed in competition |
+| 👁️ **[Eye-Tracking System](https://github.com/Mahyar426/Eye-Tracking-via-Iris-Detection)** | MATLAB, Computer Vision | ~98% gaze accuracy — camera-only, zero hardware trackers |
+| 🛰️ **[LEO Satellite Comms Simulator](https://github.com/Mahyar426/LEO-SatComm-Simulator)** | MATLAB, OTFS, LDPC, CCSDS | End-to-end LEO link budget + OTFS waveform + CCSDS coding |
+| 📡 **[RTP Traffic Recognition](https://github.com/Mahyar426/RTP-Traffic-Pattern-Recognition)** | Python, PyTorch, scikit-learn | ML on 2M+ real network obs — loss detection, flow clustering, bitrate forecasting |
+| ⚡ **[FPGA Matrix Co-Processor](https://github.com/Mahyar426/FPGA-and-Digital-Design-in-Verilog)** | Verilog, Xilinx ISE | Dual-clock UART-interfaced 32×32 matrix ALU synthesized on hardware |
+| 📻 **[Advanced Wireless Comms](https://github.com/Mahyar426/Advanced-Wireless-Communications)** | MATLAB, App Designer | DS-CDMA · MIMO water-filling · SINR-constrained beamforming |
+| 🔐 **[Cryptography Lab](https://github.com/Mahyar426/Breaking-Ciphers-One-Bit-at-a-Time)** | Python, CrypTool | LFSR cryptanalysis, ECDLP, Baby-Step Giant-Step — broke it then rebuilt it |
+| 🛰️ **[GNSS Signal Processing](https://github.com/Mahyar426/gnss-signal-processing-labs)** | MATLAB | Full receiver chain: Android raw data → spreading codes → CAF acquisition → DLL tracking |
+| 🎙️ **[Audio Beamforming](https://github.com/Mahyar426/dsp-audio-beamforming-matlab)** | MATLAB | 16-mic DAS/MVDR beamformer with real-time spatial spectrum waterfall |
 
 ---
 
 ## 📜 Publication
 
-> **M. Onsori et al.**, *"Data-Driven and Privacy-Preserving Cooperation in Decentralized Learning"*
+> **M. Onsori et al.**, *"Data-Driven and Privacy-Preserving Cooperation in Decentralized Learning"*  
 > IEEE 49th Conference on Local Computer Networks (LCN), 2024
 
 ---
@@ -139,7 +144,7 @@ Previous:
 
 <div align="center">
 
-### Let's connect and innovate together 🚀
+### Let's connect and build something that matters 🚀
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahyar-onsori/)
 [![Email](https://img.shields.io/badge/mahyaronsori99@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahyaronsori99@gmail.com)
