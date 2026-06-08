@@ -20,10 +20,9 @@
 
 <div align="center">
 
-| 🚀 65% | 👁️ 4,000 FPS | 🧪 30+ |
+| 🚀 65% | 👁️ 4,000 FPS | 🧪 30+ | 📜 IEEE LCN |
 |:---:|:---:|:---:|:---:|
-| Firmware validation time reduced | Industrial vision pipeline throughput | Automated test scripts shipped |
-
+| Firmware validation time reduced | Real-time vision pipeline throughput | Automated test scripts shipped | Published Researcher 2024 |
 </div>
 
 ---
