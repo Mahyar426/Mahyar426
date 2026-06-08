@@ -20,9 +20,9 @@
 
 <div align="center">
 
-| 🚀 65% | 👁️ 4,000 FPS | 🧪 30+ | 📡 2M+ |
+| 🚀 65% | 👁️ 4,000 FPS | 🧪 30+ |
 |:---:|:---:|:---:|:---:|
-| Firmware validation time reduced | Industrial vision pipeline throughput | Automated test scripts shipped | RTP network observations analyzed |
+| Firmware validation time reduced | Industrial vision pipeline throughput | Automated test scripts shipped |
 
 </div>
 
@@ -119,7 +119,7 @@ Previous:
 
 ## 🏆 Achievements
 
-- 🥇 **EDISU Scholarship** — Ranked 1st, Politecnico di Torino
+- 🥇 **EDISU Scholarship** — Ranked 1st, Department of Electronics and Telecommunications, Politecnico di Torino
 - 🥇 **Top 1%** — National B.Sc. Entrance Exam, Iran
 - 📜 **IEEE LCN 2024** — Published researcher in federated/decentralized ML
 
